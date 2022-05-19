@@ -1,5 +1,5 @@
-# -01MARIUS10-
-<h1 align="center">Hi 👋, I'm RAZAFITSALAMA Tsiorimbola Marius</h1>
+
+<h2 align="center">Hi 👋, I'm RAZAFITSALAMA Tsiorimbola Marius</h2>
 <h3 align="center">A passionate #backend developer and #Datascience</h3>
 
 <h3 align="left">Connect with me:</h3>
