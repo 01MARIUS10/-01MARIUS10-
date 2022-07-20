@@ -5,7 +5,7 @@
 <h1 align="center"><em>Hello!</em> <img src="assets/wave.gif" alt="hand wave" width="36" height="36"></h1>
 <h3 align="center"><b><em>Hi 👋, I'm MARIUS</em></b>  <code>Mathematics and computer science student.</code></h3>
 <h3 align="center"><code>All of me to be powerfull xD <span style='font-size:100px;'>&#129312;</span></code></h3>
-<div><img src="./giphy.gif" alt="gift" /></div>
+<div><img src="giphy.gif" alt="gift" /></div>
 <hr>
 <table align="center">
     <tr>
