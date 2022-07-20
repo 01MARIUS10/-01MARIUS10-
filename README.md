@@ -14,7 +14,7 @@
 <h1 align="center"><em>Hello!</em> <img src="assets/wave.gif" alt="hand wave" width="36" height="36"></h1>
 <h3 align="center"><b><em>Hi 👋, I'm MARIUS</em></b>  <code>Mathematics and computer science student.</code></h3>
 <h3 align="center"><code>All of me to be powerfull xD <span style='font-size:100px;'>&#129312;</span></code></h3>
-<div><img src="https://media2.giphy.com/media/QtD1ZgBYzYi3BmRv7Q/giphy360p.mp4?cid=ecf05e47tyvah67d9qb0ylh432fzpk6ure534bszh2yu5178&rid=giphy360p.mp4&ct=v&cc=en" alt="api" /></div>
+<div><img src=".giphy.gif" alt="gift" /></div>
 <hr>
 <table align="center">
     <tr>
