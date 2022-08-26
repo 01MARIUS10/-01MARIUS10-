@@ -40,5 +40,11 @@
 
 <div align='center' > 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01MARIUS10&layout=compact" alt='toplanguage> 
-    <img src="https://github.com/01MARIUS10/github-readme-stats" alt='toptwo> 
+   
+</div>
+<div align='center' > 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01MARIUS10" alt='toplanguage> 
+</div>                                                                                                       
+<div align='center'>
+     <img src="https://github.com/01MARIUS10/github-readme-stats" alt='toptwo> 
 </div>
