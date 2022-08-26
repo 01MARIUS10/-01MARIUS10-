@@ -4,6 +4,7 @@
 <h3 align="center"><code>All of me to be powerfull xD <span style='font-size:100px;'>&#129312;</span></code></h3>
 <div align="center"><img src="giphy.gif" alt="gift" /></div>
 <hr>
+<div style="display:flex">
 <table align="center">
     <tr>
         <td>
@@ -32,11 +33,12 @@
         </td>
     </tr>
 </table>
-<hr>
-<h2 align="center"><code>Thanks for your visit. Have a good day!</code> 😁️</h1>
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01MARIUS10&theme=tokyonight&layout=compact&langs_count=6" alt="top languages">  
 </div>
+</div>    
+<h2 align="center"><code>Thanks for your visit. Have a good day!</code> 😁️</h1>
+
+
 
 <div align='center' > 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01MARIUS10&layout=compact" alt='toplanguage> 
