@@ -44,7 +44,7 @@
                 </tr>
             </table>
             <hr>
-            <div>  
+            <div align="center">  
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01MARIUS10&theme=tokyonight&layout=compact&langs_count=6" alt="top languages">  
             </div>
        </td>
@@ -54,16 +54,3 @@
     
  
 <h2 align="center"><code>Thanks for your visit. Have a good day!</code> 😁️</h1>
-
-
-
-<div align='center' > 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01MARIUS10&layout=compact" alt='toplanguage> 
-   
-</div>
-<div align='center' > 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01MARIUS10" alt='toplanguage> 
-</div>                                                                                                       
-<div align='center'>
-     <img src="https://github.com/01MARIUS10/github-readme-stats" alt='toptwo> 
-</div>
