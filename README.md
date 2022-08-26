@@ -4,7 +4,7 @@
 <h3 align="center"><code>All of me to be powerfull xD <span style='font-size:100px;'>&#129312;</span></code></h3>
 <div align="center"><img src="giphy.gif" alt="gift" /></div>
 <hr>
-<div style="display:flex">
+<div style="display:flex;align-items:center;">
 <table align="center">
     <tr>
         <td>
