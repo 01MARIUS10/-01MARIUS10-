@@ -13,7 +13,7 @@
             <div ><img src="giphy.gif" alt="gift" /></div>
         </td>
         <td>
-            <div style="display:flex;align-items:center;padding:20px;border:solid 2px red;"> 
+            <div style="display:flex;flex-direction:row;align-items:center;"> 
                 <div>  
                     <h2>🔭️  <u><b>Interested in</b></u></h2>
                     <ul>
@@ -37,6 +37,7 @@
                     </div>
                 </div> 
             </div>
+            <hr>
             <div>  
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01MARIUS10&theme=tokyonight&layout=compact&langs_count=6" alt="top languages">  
             </div>
