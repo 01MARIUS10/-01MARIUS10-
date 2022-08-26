@@ -38,3 +38,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acf-patrick&theme=tokyonight&layout=compact&langs_count=6" alt="top languages">  
 </div>
 
+<div align='center' > 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt='toplanguage> 
+    <img src="https://github.com/anuraghazra/github-readme-stats" alt='toptwo> 
+</div>
