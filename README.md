@@ -13,7 +13,7 @@
             <div ><img src="giphy.gif" alt="gift" /></div>
         </td>
         <td>
-            <div > 
+            <div style="display:flex;align-items:center;"> 
                 <div>  
                     <h2>🔭️  <u><b>Interested in</b></u></h2>
                     <ul>
