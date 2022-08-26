@@ -10,8 +10,8 @@
         <td>
             <div align="center"><img src="giphy.gif" alt="gift" /></div>
         </td>
-    </tr>
-    <tr>
+    
+    
         <td>
             <h2>🔭️  <u><b>Interested in</b></u></h2>
             <ul>
