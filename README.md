@@ -6,7 +6,7 @@
 <hr>
 
 
-<table >
+<table style="width:100%">
     <tr>
         <td>
             <h2>yyyyyyyyyyyyyyyyyyyyyyy</h2>
