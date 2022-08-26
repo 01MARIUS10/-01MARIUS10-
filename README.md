@@ -8,9 +8,8 @@
 <table >
     <tr>
         <td>
-            <div align="center"><img src="giphy.gif" alt="gift" /></div>
+            <div style="width:30%"><img src="giphy.gif" alt="gift" /></div>
         </td>
-    
     
         <td>
             <h2>🔭️  <u><b>Interested in</b></u></h2>
