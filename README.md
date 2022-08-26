@@ -13,7 +13,7 @@
             <div style="width:30%"><img src="giphy.gif" alt="gift" /></div>
         </td>
         <td>
-            <div> 
+            <div style="width:100%"> 
                 <div>  
                     <h2>🔭️  <u><b>Interested in</b></u></h2>
                     <ul>
