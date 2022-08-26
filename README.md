@@ -35,6 +35,6 @@
 <hr>
 <h2 align="center"><code>Thanks for your visit. Have a good day!</code> 😁️</h1>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acf-patrick&theme=tokyonight&layout=compact&langs_count=5" alt="top languages">  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acf-patrick&theme=tokyonight&layout=compact&langs_count=6" alt="top languages">  
 </div>
 
