@@ -2,10 +2,15 @@
 <h2 align="center"> RAZAFITSALAMA Tsiorimbola Marius</h2>
 <h3 align="center"><b><em>Hi 👋, I'm MARIUS</em></b>  <code>Mathematics and computer science student.</code></h3>
 <h3 align="center"><code>All of me to be powerfull xD <span style='font-size:100px;'>&#129312;</span></code></h3>
-<div align="center"><img src="giphy.gif" alt="gift" /></div>
+
 <hr>
 <div style="display:flex;align-items:center;">
-<table align="center">
+<table >
+    <tr>
+        <td>
+            <div align="center"><img src="giphy.gif" alt="gift" /></div>
+        </td>
+    </tr>
     <tr>
         <td>
             <h2>🔭️  <u><b>Interested in</b></u></h2>
@@ -16,9 +21,10 @@
             </ul>
         </td>
        <td>
-         <h2 align="center">🛠️ <b>Tools</b></h2><br>
-           <div align="center">
-             <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+       <h2 align="center">🛠️ <b>Tools</b></h2><br>
+           
+       <div align="center">
+            <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
              </a> 
              <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
