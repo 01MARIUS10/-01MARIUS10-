@@ -1,14 +1,15 @@
 
 <h2 align="center"> RAZAFITSALAMA Tsiorimbola Marius</h2>
-<h3 align="center"><b><em>Hi 👋, I'm MARIUS</em></b>  <code>Mathematics and computer science student.</code></h3>
-<h3 align="center"><code>All of me to be powerfull xD <span style='font-size:100px;'>&#129312;</span></code></h3>
+<h3 align="center"><b><em>Hi 👋, I'm MARIUS</em></b>  <code>Mathematics and computer science student  <span style='font-size:100px;'>&#129312;</span>.</code></h3>
+<h3 align="center"><code>All of me to be powerfull xD </code></h3>
 
 <hr>
+<div style="width:30%"><img src="giphy.gif" alt="gift" /></div>
 <div style="display:flex;align-items:center;">
 <table >
     <tr>
         <td>
-            <div style="width:30%"><img src="giphy.gif" alt="gift" /></div>
+            
         </td>
     
         <td>
