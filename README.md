@@ -5,13 +5,9 @@
 
 <hr>
 <div style="width:30%"><img src="giphy.gif" alt="gift" /></div>
-<div style="display:flex;align-items:center;">
+
 <table >
     <tr>
-        <td>
-            
-        </td>
-    
         <td>
             <h2>🔭️  <u><b>Interested in</b></u></h2>
             <ul>
@@ -19,11 +15,10 @@
                 <li>🔐️ Database Conception</li>
                 <li>📊️ Numerical analysis and algebra</li>
             </ul>
-        </td>
+       </td>
        <td>
-       <h2 align="center">🛠️ <b>Tools</b></h2><br>
-           
-       <div align="center">
+           <h2 align="center">🛠️ <b>Tools</b></h2><br>
+           <div align="center">
             <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
              </a> 
@@ -39,9 +34,10 @@
         </td>
     </tr>
 </table>
+    
+    
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01MARIUS10&theme=tokyonight&layout=compact&langs_count=6" alt="top languages">  
-</div>
-</div>    
+</div> 
 <h2 align="center"><code>Thanks for your visit. Have a good day!</code> 😁️</h1>
 
 
