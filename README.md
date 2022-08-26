@@ -4,10 +4,14 @@
 <h3 align="center"><code>All of me to be powerfull xD </code></h3>
 
 <hr>
-<div style="width:30%"><img src="giphy.gif" alt="gift" /></div>
+
 
 <table >
     <tr>
+        <td>
+            <h2>yyyyyyyyyyyyyyyyyyyyyyy</h2>
+            <div style="width:30%"><img src="giphy.gif" alt="gift" /></div>
+        </td>
         <td>
             <h2>🔭️  <u><b>Interested in</b></u></h2>
             <ul>
