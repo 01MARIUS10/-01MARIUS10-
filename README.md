@@ -10,10 +10,10 @@
     <tr>
         <td>
             <h2>yyyyyyyyyyyyyyyyyyyyyyy</h2>
-            <div style="width:30%"><img src="giphy.gif" alt="gift" /></div>
+            <div ><img src="giphy.gif" alt="gift" /></div>
         </td>
         <td>
-            <div style="width:100%"> 
+            <div > 
                 <div>  
                     <h2>🔭️  <u><b>Interested in</b></u></h2>
                     <ul>
