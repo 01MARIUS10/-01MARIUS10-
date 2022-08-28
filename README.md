@@ -8,7 +8,7 @@
 <table >
     <tr>
         <td>
-            <h2>Computer Science</h2>
+            <h2 align="center" >Computer Science</h2>
             <div ><img src="giphy.gif" alt="gift" /></div>
         </td>
         <td>
