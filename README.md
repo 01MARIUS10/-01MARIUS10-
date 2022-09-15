@@ -41,7 +41,7 @@
             </table>
     </div>
             <hr>
-            <div align="center" style="display:flex;flex-direction:row;">  
+            <div style="display:flex;flex-direction:row;">  
                 <div ><img src="giphy.gif" alt="gift" /></div>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01MARIUS10&theme=tokyonight&layout=compact&langs_count=6" alt="top languages">  
             </div>
