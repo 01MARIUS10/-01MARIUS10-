@@ -8,7 +8,7 @@
 <table >
     <tr>
         <td>
-            <table>
+            <table align="center">
                 <tr>
                     <td>
                         <div>  
