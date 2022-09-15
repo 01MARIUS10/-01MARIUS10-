@@ -8,7 +8,8 @@
 <table >
     <tr>
         <td>
-            <table align="center">
+            <div align="center">
+            <table>
                 <tr>
                     <td>
                         <div>  
@@ -38,6 +39,7 @@
                     </td>
                 </tr>
             </table>
+    </div>
             <hr>
             <div align="center" style="display:flex;flex-direction:row;">  
                 <div ><img src="giphy.gif" alt="gift" /></div>
