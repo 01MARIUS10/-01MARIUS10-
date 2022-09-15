@@ -42,7 +42,7 @@
     </div>
             <hr>
             <div  align="center" style="display:flex;flex-direction:row;">  
-                <div><img style="height:100px" src="giphy.gif" alt="gift" /></div>
+                <img style="height:100px" src="giphy.gif" alt="gift" />
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01MARIUS10&theme=tokyonight&layout=compact&langs_count=6" alt="top languages">  
             </div>
        </td>
