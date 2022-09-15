@@ -9,7 +9,7 @@
     <tr>
         <td>
             <div align="center">
-            <table>
+            <table style="width:100%">
                 <tr>
                     <td>
                         <div>  
